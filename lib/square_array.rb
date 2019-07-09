@@ -1,3 +1,3 @@
 def square_array(x)
-  x.each {|n| p n**2}
+  x.each {|n| puts n**2}
 end
