@@ -1,4 +1,4 @@
 def square_array(array)
-    while array = x
-      puts x**x
+    for i in array
+      puts i**2
 end
